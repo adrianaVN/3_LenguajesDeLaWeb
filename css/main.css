@@ -1,0 +1,11 @@
+h1{color: red;
+	 	font-weight: 500px;
+	 	font-family: 'Oswald', sans-serif;
+	  	font-size: 20px;}
+
+	img{border-color: blue; 
+		border-width: 1px;
+		 border-style: solid;}
+		 
+	p{ color: yellow;
+		font-size: 14px;}
